@@ -18,7 +18,7 @@ Uses the **Shunting Yard algorithm** as the underlying logic.
 3. Build & run on an emulator or device.
 
 ## Screenshots
-![App Screenshot](screenshots/calC.jpg)
+<img src="screenshots/calC.jpg" width="300"/>
 
 ## Author
 Sadique Khan
